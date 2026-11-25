@@ -33,7 +33,7 @@ The practicals cover fundamental Python programming concepts, data structures, f
 
 ---
 
-# Unit 2 - Python Data Structures and Object-Oriented Programming
+# Unit 2, 3, 4, 5
 
 | Practical No. | Practical                                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------- |
